@@ -3,6 +3,7 @@ package com.mycompany.app;
 /**
  * Hello world!
  *
+ * Matthias Riesch
  */
 public class App 
 {
